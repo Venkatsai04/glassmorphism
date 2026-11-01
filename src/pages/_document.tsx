@@ -4,18 +4,16 @@ export default function Document() {
     return (
         <Html lang='en' className='scroll-smooth'>
             <Head>
-                <link rel='icon' href='/images/sahara-labs-logo.png' type='image/png' />
-                <link rel='apple-touch-icon' href='/images/sahara-labs-logo.png' />
+                <link rel='icon' href='/favicon.svg' type='image/svg+xml' />
                 <meta name='theme-color' content='#ffffff' />
-                <noscript>
-                    <style>{`
-                        .reveal { opacity: 1 !important; transform: none !important; }
-                        .split-word { transform: none !important; }
-                        .halftone-photo { opacity: 1 !important; }
-                    `}</style>
-                </noscript>
+                <link rel='preconnect' href='https://fonts.googleapis.com' />
+                <link rel='preconnect' href='https://fonts.gstatic.com' crossOrigin='anonymous' />
+                <link
+                    href='https://fonts.googleapis.com/css2?family=Geist+Mono:wght@400;500;600&family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500;600;700&family=Syne:wght@600;700;800&display=swap'
+                    rel='stylesheet'
+                />
             </Head>
-            <body className='min-h-full flex flex-col bg-white text-ink antialiased selection:bg-azure-200 selection:text-ink'>
+            <body className='min-h-full flex flex-col bg-white text-[#17151A] antialiased selection:bg-[#F4C6D8] selection:text-[#17151A]'>
                 <Main />
                 <NextScript />
             </body>

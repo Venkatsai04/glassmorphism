@@ -1,20 +1,22 @@
-# SAHARA LABS
+# Bhuvaneswari Lemburu — Portfolio
 
-> Lead generation systems, AI automation, and voice agents for high-growth businesses.
-
-Built with Next.js (Pages Router), React 19, Tailwind CSS v4, Lucide Icons, and an interactive HTML5 dot-matrix canvas engine.
+> Data Analytics & Business Intelligence Portfolio. Exploring business problems through data analysis, visualisation, and practical insights.
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Tech Stack & Highlights
 
-- **Framework**: Next.js 15 (Pages Router)
-- **Library**: React 19
-- **Styling**: Tailwind CSS v4 + Vanilla CSS tokens
-- **Graphics & Physics**: Custom 2D HTML5 Canvas particle & dot-matrix engine
-- **Interactive Breakout**: Full-viewport micro-dot breakout game in the footer
-- **Forms**: AJAX Formspree real-time integration (`https://formspree.io/f/mgaalkdw`)
-- **Contact Support**: support@rawsahara.in
+- **Framework**: Next.js 15 (Pages Router) & React 19
+- **Smooth Scroll**: Lenis Smooth Scrolling Engine
+- **Styling**: Tailwind CSS v4 + Curated Pink & White Editorial Design System
+- **Typography**: Syne (Bold Display), Instrument Serif (Italic Accent), Inter (Sans), Geist Mono
+- **Atmosphere**: SVG Horizon Perspective Grid, Pale Pink Light Diffusion
+- **Featured Case Study**: Garbha Analytics (Interactive IVF Outcome Monitoring Dashboard)
+- **Projects**:
+  - Garbha Analytics (IVF Outcomes Analytics Dashboard)
+  - Online Student Counselling System (Java, JSP, Servlets, MySQL)
+  - Brain Tumor Detection (Python, TensorFlow, CNN, Flask)
+  - Practice Coding Challenges (Python Algorithm Solutions Log)
 
 ---
 
@@ -32,7 +34,7 @@ Run the development server:
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to view the result.
+Open [http://localhost:3000](http://localhost:3000) with your browser to explore the portfolio.
 
 ---
 
